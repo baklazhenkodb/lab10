@@ -1,0 +1,17 @@
+C:\Users\Nikita\Desktop\lab10.1\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.dll
+C:\Users\Nikita\Desktop\lab10.1\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.pdb
+C:\Users\Nikita\Desktop\lab10.1\ПРИМЕР\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\lab10.1\ПРИМЕР\Net.Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\lab10.1\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.dll
+C:\Users\Nikita\Desktop\lab10.1\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.pdb
+C:\Users\Ivan\Desktop\lab10\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.dll
+C:\Users\Ivan\Desktop\lab10\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.pdb
+C:\Users\Ivan\Desktop\lab10\ПРИМЕР\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\lab10\ПРИМЕР\Net.Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\lab10\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.dll
+C:\Users\Ivan\Desktop\lab10\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.pdb
+C:\Users\Asus\Documents\Клиент-серверное приложение\Net.Library\bin\Debug\SomeProject.Library.dll
+C:\Users\Asus\Documents\Клиент-серверное приложение\Net.Library\bin\Debug\SomeProject.Library.pdb
+C:\Users\Asus\Documents\Клиент-серверное приложение\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Клиент-серверное приложение\Net.Library\obj\Debug\SomeProject.Library.dll
+C:\Users\Asus\Documents\Клиент-серверное приложение\Net.Library\obj\Debug\SomeProject.Library.pdb
